@@ -1,0 +1,191 @@
+.div-header
+{
+    background-color: rgb(86, 44, 125); 
+    padding: 1px 0px 25px 0px;
+    height: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(254, 253, 253);
+    text-shadow: 0px 1px;
+    margin-left: 0px;   
+    text-align: center;
+    border-radius: 10px;
+}
+body
+{
+    background-color: rgb(204, 230, 247);
+}
+
+.expense-total{
+    text-align: center;
+    font-size: x-large;
+    text-shadow: 1px 1px ;
+}
+
+.div-daily
+{
+    background-color: rgb(81, 81, 150);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+   
+    
+}
+ 
+body
+{
+    background-image: url(https://assets.gqindia.com/photos/608c135f6e6a489a62cd254d/master/pass/Apps%20for%20finance%20management.jpg);
+    background-size: cover;
+}
+
+#mr{
+    margin-left: 15%;
+    padding-left: 130px;
+    padding-right: 370px;
+    
+}
+table
+{
+    border-collapse: collapse;
+    width: 100%;
+    background-color :rgb(242, 235, 235);
+    border-color: rgb(99, 61, 61);
+    border-width: 2px;
+   
+}
+ 
+ 
+li{
+    display: inline-block;
+    height: 28px;
+}
+.button1
+{
+   
+    width: 150px;
+    height: 28px;
+    margin-left: 200px;
+    margin-right: 8px;
+    background-color:rgb(89, 89, 170);
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    font-style:normal;
+    font-size: 14px;
+    box-shadow: 0px 1px 0px .5px  rgb(108, 108, 220);
+     
+}
+.button2
+{
+    background-color: rgb(138, 71, 162);
+    width: 150px;
+    height: 28px;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    box-shadow: 0px 1px 0px .5px rgb(165, 112, 185);
+}
+
+.deleteButton
+{
+  background-color: red;
+  border-color: aliceblue;
+  border-width: 0px;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 1px 1px lightcoral ;
+}
+ 
+hr
+{
+    width: 100%;
+}
+
+label,input{
+     color: rgb(18, 13, 13);
+     margin-left: 21px;
+     margin-right: 10px;
+
+      
+}
+.error{
+    padding: 20px;
+}
+ 
+ .a1{
+     padding-left: 150px; 
+ }
+ .c1
+ {
+   
+     padding-left: 133px;
+ }
+ .d1{
+     padding-left: 8px;
+    
+ }
+ .as{
+   
+     width: 180px;
+     height: 16px;
+}
+ .asd{
+   
+     width: 180px;
+     height: 20px;
+}
+select{
+     margin-left: 24px;
+     width: 180px;
+     height: 22px;
+}
+
+.table{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+tr {
+    border-bottom: 1px solid #000000;
+    height: 30px;
+  }
+  th
+  {
+    background-color: rgb(86, 44, 125);
+    padding: 0% 88px 0px 3px;
+    color: whitesmoke;
+    height: max-content;
+  }
+  #date{
+    padding-left: 23px;
+  }
+  #delete
+  {
+    padding-left: 8px;
+  }
+  td
+  {
+    padding-left: 10px;
+  }
+  .daily-expenses
+  {
+    background-color:  rgb(86, 44, 125); 
+    text-align: center;
+    font-size: x-large;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    padding-bottom: 8px; 
+    padding-top: 5px; 
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+ }
+ 
+ p{
+    margin-left: 2%;
+    font-size: small;
+ }
+  
+ 
+     
+  
+     
